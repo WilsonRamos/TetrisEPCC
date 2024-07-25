@@ -1,0 +1,3 @@
+C:/DiskD/Lenguagec++/Tetris-VersionFinal/build/CMakeFiles/TetrisGameEPCC.dir
+C:/DiskD/Lenguagec++/Tetris-VersionFinal/build/CMakeFiles/ALL_BUILD.dir
+C:/DiskD/Lenguagec++/Tetris-VersionFinal/build/CMakeFiles/ZERO_CHECK.dir

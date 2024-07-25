@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\DiskD\Lenguagec++\Tetris-VersionFinal\src\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\DiskD\Lenguagec++\Tetris-VersionFinal\src\GameFacade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\DiskD\Lenguagec++\Tetris-VersionFinal\src\Board.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\DiskD\Lenguagec++\Tetris-VersionFinal\src\SoundManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\DiskD\Lenguagec++\Tetris-VersionFinal\src\ShapeFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\DiskD\Lenguagec++\Tetris-VersionFinal\src\UI\UIFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\DiskD\Lenguagec++\Tetris-VersionFinal\src\Shapes\ShapeBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\DiskD\Lenguagec++\Tetris-VersionFinal\src\Shapes\ShapeTypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\DiskD\Lenguagec++\Tetris-VersionFinal\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{159D6748-18C9-3191-ABAA-B726B95B0C76}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
